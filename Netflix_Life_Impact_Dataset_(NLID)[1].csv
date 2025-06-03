@@ -1,0 +1,83 @@
+Movie Title,Genre,Release Year,Average Rating,Number of Reviews,Review Highlights,Minute of Life-Changing Insight,How Discovered,Meaningful Advice Taken,Suggested to Friends/Family (Y/N %)
+The Pursuit of Happyness,Drama,2006,9.1,42000,"""Will Smith’s struggle hit hard. A must-watch!"" / ""Overly sentimental but inspiring.""",78:15 – Chris gets the job,Friend suggested,Persistence pays off.,92% Y
+The Social Dilemma,Documentary,2020,8.2,35000,"""Eye-opening about tech addiction."" / ""Some claims feel exaggerated.""",12:40 – Algorithm manipulation,Social media,Limit screen time for mental health.,88% Y
+Parasite,Thriller/Drama,2019,9.3,50000,"""Masterpiece on class inequality."" / ""Too dark for some viewers.""",1:12:00 – The flood scene,Netflix recommendation,Privilege isn’t always visible.,85% Y
+Paddington 2,Comedy/Family,2017,8.8,28000,"""Pure joy! Teaches kindness effortlessly."" / ""Not for edgy viewers.""",33:10 – Paddington’s jail speech,Friend suggested,Always choose kindness.,95% Y
+Inception,Sci-Fi,2010,9,45000,"""Mind-bending brilliance."" / ""Confusing plot.""",1:05:22 – Cobb’s totem scene,Social media,Reality is subjective.,80% Y
+Lady Bird,Comedy/Drama,2017,8.6,22000,"""Perfect coming-of-age film."" / ""Slow pacing.""",47:30 – Argument with mother,Netflix recommendation,Parents sacrifice more than we see.,76% Y
+13th,Documentary,2016,8.9,18000,"""Essential viewing on systemic racism."" / ""Heavy but necessary.""",25:15 – Prison-industrial complex,Podcast mention,Justice requires awareness.,90% Y
+The Half of It,Romance/Drama,2020,8,10000,"""Sweet LGBTQ+ story."" / ""Predictable plot.""",1:01:05 – Ellie’s confession,Netflix recommendation,Love isn’t always straightforward.,70% Y
+Whiplash,Drama,2014,9.2,38000,"""J.K. Simmons is terrifyingly great."" / ""Glorifies toxic mentorship.""",1:20:00 – Drumming finale,Film class,Greatness demands sacrifice.,82% Y
+Coco,Animation,2017,9.4,40000,"""Beautiful tribute to family and culture."" / ""Slow start.""",1:15:10 – Remember Me scene,Friend suggested,Honor your roots.,97% Y
+Silver Linings Playbook,Drama,2012,8.3,32000,"""Raw portrayal of mental health."" / ""Romance feels forced.""",1:10:00 – Dance competition scene,Book adaptation,Embrace imperfections.,81% Y
+The Trial of the Chicago 7,Historical Drama,2020,8.6,29000,"""Timely and powerful."" / ""Sacha Baron Cohen steals the show.""",1:05:44 – Courtroom speech,Netflix recommendation,Stand up for what’s right.,87% Y
+The Queen's Gambit,Drama,2020,8.9,65000,"""Anya Taylor-Joy is mesmerizing."" / ""Ignores chess realism.""",1:30:00 – Final match,Word of mouth,Obsession has a price.,93% Y
+I Lost My Body,Animation,2019,8.4,15000,"""Poetic and surreal."" / ""Too abstract for some.""",1:05:00 – Flashback to childhood,Film festival,Loss shapes identity.,79% Y
+The Florida Project,Drama,2017,8.2,19000,"""Heartbreakingly real."" / ""No traditional plot.""",1:08:00 – Moonee’s final run,Critic review,Childhood joy persists in hardship.,73% Y
+Roma,Drama,2018,8.5,27000,"""Visually stunning."" / ""Pacing is glacial.""",1:42:00 – Beach rescue,Film festival,Silent strength matters.,84% Y
+The Irishman,Crime/Drama,2019,8.8,39000,"""Epic Scorsese masterpiece."" / ""Runtime is exhausting.""",2:30:00 – Nursing home regret,Netflix original,Time erases everything.,75% Y
+Marriage Story,Drama,2019,8.6,37000,"""Devastatingly honest."" / ""Too depressing.""",58:10 – Argument scene,Netflix recommendation,Communication saves relationships.,89% Y
+Dolemite Is My Name,Comedy,2019,8.1,19000,"""Eddie Murphy’s comeback."" / ""Niche appeal.""",1:12:00 – Theater triumph,Social media,Believe in your hustle.,83% Y
+The Ballad of Buster Scruggs,Western,2018,8.3,21000,"""Quirky and profound."" / ""Uneven anthology.""",42:00 – 'Meal Ticket' segment,Netflix original,Death is the ultimate equalizer.,71% Y
+Da 5 Bloods,War/Drama,2020,8.4,18000,"""Spike Lee at his best."" / ""Pacing issues.""",1:15:00 – Gold burial scene,Netflix original,Confront past demons.,77% Y
+The Midnight Sky,Sci-Fi,2020,6.5,12000,"""Visually ambitious."" / ""Plot holes galore.""",1:10:00 – Radio transmission,Netflix recommendation,Isolation tests morality.,65% Y
+Mank,Drama,2020,8,14000,"""Cinematography masterpiece."" / ""Too niche for casual viewers.""",1:20:00 – Writer’s block,Netflix original,Art demands sacrifice.,68% Y
+The Lost Daughter,Drama,2021,7.8,9000,"""Olivia Colman is electric."" / ""Ponderously slow.""",1:05:00 – Beach confession,Film critic,Motherhood is messy.,72% Y
+Don't Look Up,Satire,2021,7.9,45000,"""Hilarious and terrifying."" / ""Too on-the-nose.""",55:00 – News interview,Netflix original,Humanity ignores obvious threats.,79% Y
+The Power of the Dog,Drama,2021,8.2,23000,"""Cumberbatch’s best role."" / ""Slow burn.""",1:50:00 – Twisted revelation,Netflix original,Toxicity hides in plain sight.,82% Y
+The Dig,Historical Drama,2021,7.8,13000,"""Understated beauty."" / ""Pacing too slow.""",1:10:00 – Sutton Hoo discovery,Netflix recommendation,Legacy outlives us.,74% Y
+Passing,Drama,2021,7.9,11000,"""Hauntingly beautiful."" / ""Too abstract.""",48:00 – Tea party,Netflix original,Identity is a prison.,70% Y
+The Mitchells vs. The Machines,Animation,2021,8.7,35000,"""Hilarious and heartfelt."" / ""Over-the-top humor.""",1:05:00 – Family reconciliation,Netflix original,Technology can’t replace love.,93% Y
+Okja,Adventure,2017,8,25000,"""Touching animal rights story."" / ""Tonal whiplash.""",1:15:00 – Okja’s escape,Netflix original,Corporate greed harms innocence.,81% Y
+The Guilty,Thriller,2021,7.7,16000,"""Gripping single-location drama."" / ""Predictable twists.""",1:02:00 – Truth revealed,Netflix original,Guilt distorts judgment.,75% Y
+The White Tiger,Drama,2021,8,22000,"""Scathing class critique."" / ""Pacing lags.""",1:30:00 – Entrepreneurial rise,Netflix original,Opportunity requires ruthlessness.,78% Y
+Ma Rainey's Black Bottom,Drama,2020,8.5,18000,"""Boseman’s final masterpiece."" / ""Stagey feel.""",1:10:00 – 'Burn' monologue,Netflix original,Artistic legacy matters.,85% Y
+The Two Popes,Drama,2019,8.2,20000,"""Hopkins & Pryce dazzle."" / ""Too talky.""",1:20:00 – Confession scene,Netflix original,Forgiveness bridges divides.,83% Y
+Extraction,Action,2020,7.8,48000,"""Non-stop adrenaline."" / ""Plot? What plot?""",43:00 – One-shot fight scene,Netflix recommendation,Courage means risking everything.,72% Y
+Enola Holmes,Mystery,2020,7.6,42000,"""Millie Bobby Brown charms."" / ""Historically silly.""",1:05:00 – Independence speech,Netflix original,Question societal norms.,80% Y
+The Old Guard,Action,2020,7.3,38000,"""Fresh take on immortality."" / ""Formulaic ending.""",1:15:00 – Team revealed,Netflix original,Immortality is lonely.,68% Y
+Eurovision Song Contest: The Story of Fire Saga,Comedy,2020,7,29000,"""Joyfully absurd."" / ""Humor misses often.""",1:10:00 – 'Jaja Ding Dong' scene,Netflix original,Passion outweighs talent.,65% Y
+The Platform,Horror,2019,8,32000,"""Brutal allegory on greed."" / ""Excessively gory.""",1:00:00 – Cake decision,Netflix recommendation,Selflessness breaks cycles.,77% Y
+Uncut Gems,Thriller,2019,8.1,28000,"""Anxiety-inducing brilliance."" / ""Too stressful.""",1:30:00 – Bet payoff,Film critic,Greed destroys everything.,74% Y
+Beasts of No Nation,War/Drama,2015,8.4,21000,"""Devastating child soldier tale."" / ""Graphic violence.""",1:15:00 – Commander’s betrayal,Netflix original,War steals childhood.,86% Y
+To All the Boys I've Loved Before,Romance,2018,7.8,45000,"""Sweet teen romance."" / ""Cliché tropes.""",1:00:00 – Love letter scene,Netflix original,Vulnerability leads to love.,82% Y
+The Devil All the Time,Thriller,2020,7.7,19000,"""Gothic and grim."" / ""Overly bleak.""",1:40:00 – Prayer showdown,Netflix original,Darkness begets darkness.,70% Y
+Gerald's Game,Horror,2017,7.9,23000,"""Claustrophobic terror."" / ""Slow buildup.""",1:10:00 – Midnight man reveal,Stephen King adaptation,Confront trauma to survive.,79% Y
+The Babysitter,Horror/Comedy,2017,6.8,18000,"""Fun B-movie chaos."" / ""Dumb but fun.""",45:00 – Cult reveal,Netflix original,Trust your instincts.,61% Y
+The Invitation,Horror,2016,7.3,15000,"""Slow-burn dread."" / ""Predictable twist.""",1:15:00 – Dinner confrontation,Netflix recommendation,Grief can warp minds.,73% Y
+Bird Box,Thriller,2018,7.1,62000,"""Tense apocalypse."" / ""Plot holes abound.""",1:20:00 – Blindfolded river scene,Netflix original,Fear blinds worse than sight.,69% Y
+Paddleton,Drama,2019,7.9,12000,"""Quietly devastating."" / ""Too slow.""",1:05:00 – Final road trip,Friend suggested,Friendship eases suffering.,84% Y
+Always Be My Maybe,Romance,2019,7.1,31000,"""Charming diversity."" / ""Predictable.""",1:00:00 – Restaurant duet,Netflix original,Old flames can rekindle.,75% Y
+The Laundromat,Drama,2019,6.3,14000,"""Star-studded but messy."" / ""Confusing narrative.""",45:00 – Panama Papers reveal,Netflix original,Corruption is systemic.,58% Y
+The Kindergarten Teacher,Drama,2018,7.5,13000,"""Unsettling obsession."" / ""Ethically queasy.""",1:10:00 – Poetry reading,Film festival,Talent needs nurturing.,71% Y
+Private Life,Drama,2018,8,11000,"""Raw infertility struggle."" / ""Exhausting.""",1:20:00 – IVF decision,Netflix original,Parenthood isn’t everything.,77% Y
+Calibre,Thriller,2018,7.8,16000,"""Rural nightmare fuel."" / ""Too grim.""",1:00:00 – Hunting accident,Netflix original,One mistake can ruin lives.,80% Y
+I Don't Feel at Home in This World Anymore,Comedy/Crime,2017,7.3,14000,"""Quirky revenge tale."" / ""Tonal whiplash.""",55:00 – Neighbor fight,Netflix original,Stand up for yourself.,72% Y
+The Ritual,Horror,2017,7.3,18000,"""Creepy folk horror."" / ""Weak third act.""",1:10:00 – Creature reveal,Netflix recommendation,Guilt summons monsters.,74% Y
+The Discovery,Sci-Fi,2017,6.8,12000,"""Thought-provoking."" / ""Poor execution.""",50:00 – Afterlife reveal,Netflix original,Death isn’t an escape.,63% Y
+First Match,Drama,2018,7.5,9000,"""Gritty sports drama."" / ""Underdeveloped.""",1:05:00 – Wrestling finale,Netflix original,Discipline overcomes chaos.,76% Y
+Hold the Dark,Thriller,2018,6.9,11000,"""Atmospheric mystery."" / ""Incoherent.""",1:15:00 – Wolf attack,Friend suggested,Nature defies understanding.,68% Y
+Shaft,Action,2019,6.5,17000,"""Cheesy fun."" / ""Dated humor.""",1:00:00 – Bar fight,Netflix original,Legacy is complicated.,60% Y
+Set It Up,Romance,2018,7.2,36000,"""Charming rom-com."" / ""Formulaic.""",1:05:00 – Elevator kiss,Netflix original,Love thrives on teamwork.,78% Y
+The Perfect Date,Romance,2019,6.5,22000,"""Noah Centineo delivers."" / ""Forgettable.""",55:00 – Fake date fail,Netflix original,"Be yourself, not an act.",65% Y
+Tallulah,Drama,2016,7.7,12000,"""Ellen Page shines."" / ""Morally dubious.""",1:10:00 – Kidnapping confession,Netflix original,Motherhood isn’t instinctive.,73% Y
+A Christmas Prince,Romance,2017,5.9,18000,"""Cheesy holiday fluff."" / ""Terrible acting.""",50:00 – Royal reveal,Netflix original,Fairytales can come true.,52% Y
+Rim of the World,Sci-Fi,2019,5.8,15000,"""Kids save the world."" / ""Cringe dialogue.""",1:00:00 – Alien attack,Netflix original,Courage isn’t age-dependent.,55% Y
+The Angel,Thriller,2018,7,11000,"""Based on true espionage."" / ""Slow.""",1:05:00 – Double-agent reveal,Netflix original,Loyalty is negotiable.,70% Y
+Come Sunday,Drama,2018,7.2,10000,"""Powerful religious debate."" / ""Too niche.""",1:20:00 – Sermon scene,Netflix original,Faith evolves.,75% Y
+Ravenous,Horror,2017,6.7,9000,"""Zombie apocalypse in Quebec."" / ""Silly.""",40:00 – Diner siege,Netflix recommendation,Survival requires adaptation.,62% Y
+The Land of Steady Habits,Drama,2018,6.5,8000,"""Midlife crisis tale."" / ""Boring.""",1:10:00 – Son’s overdose,Netflix original,Regret changes nothing.,60% Y
+Like Father,Comedy,2018,6.2,16000,"""Forgettable cruise comedy."" / ""Harmless fluff.""",55:00 – Father-daughter dance,Netflix original,Family bonds endure.,58% Y
+Wine Country,Comedy,2019,6,19000,"""Poehler & friends riff."" / ""Self-indulgent.""",1:00:00 – Birthday toast,Netflix original,Friendship survives aging.,59% Y
+Otherhood,Comedy,2019,5.8,12000,"""Mom invasion comedy."" / ""Cringe-worthy.""",50:00 – Confrontation scene,Netflix original,Let kids live their lives.,53% Y
+Ibiza,Comedy,2018,5.9,10000,"""Party girls abroad."" / ""Forgettable.""",45:00 – DJ hookup,Netflix original,Live in the moment.,50% Y
+The Week Of,Comedy,2018,5.5,13000,"""Sandler vs. Rock."" / ""Unfunny.""",1:00:00 – Wedding chaos,Netflix original,Weddings reveal truths.,48% Y
+The Polka King,Comedy,2017,6.3,9000,"""Blackly comic scam."" / ""Tone-deaf.""",1:05:00 – Ponzi scheme exposed,Netflix original,Greed fools everyone.,57% Y
+The Cloverfield Paradox,Sci-Fi,2018,5.8,31000,"""Messy franchise entry."" / ""Confusing.""",1:10:00 – Alternate dimension,Netflix original,Tampering has consequences.,51% Y
+Mute,Sci-Fi,2018,5.4,14000,"""Neon noir misfire."" / ""Incoherent.""",1:20:00 – Underworld reveal,Netflix original,Silence isn’t always golden.,45% Y
+The Open House,Horror,2018,4.5,12000,"""Inept horror."" / ""No scares.""",1:00:00 – Empty house,Netflix original,Some doors should stay closed.,30% Y
+The Last Days of American Crime,Action,2020,4,9000,"""Worst Netflix film?"" / ""Unwatchable.""",1:30:00 – Final heist,Netflix original,Crime doesn’t pay (literally).,20% Y
+Klaus,Animation,2019,8.7,32000,"""Instant Christmas classic."" / ""Predictable.""",1:05:00 – Gift delivery montage,Netflix original,Kindness sparks miracles.,94% Y
+Ma Rainey’s Black Bottom,Drama,2020,7.9,25000,"""Chadwick Boseman’s last role."" / ""Theatrical.""","1:20:00 – ""They Don’t Care"" monologue",Oscar buzz,Art demands sacrifice.,85% Y
+Piece of Women,Drama,2021,8.3,27000,"""Devastating childbirth scene."" / ""Graphic.""",1:10:00 – Courtroom speech,Film festival,Grief changes everything.,76% Y
+The Harder They Fall,Western,2021,7.6,18000,"""Stylish Black cowboy flick."" / ""Style over substance.""",1:20:00 – Final shootout,Netflix recommendation,Revenge is a loop.,73% Y
